@@ -1,0 +1,49 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradient(
+          rgba(255, 255, 255, 0.7),
+          rgba(255, 255, 255, 0.3)
+  ),
+  url("https://img.freepik.com/free-vector/gradient-colored-network-connection-background_23-2148893499.jpg?w=900&t=st=1710477165~exp=1710477765~hmac=c8cbc926f7560a47a6c0ad0e17920b4ebb9a80d0c863d0ccbee6c0a33dabdc88");
+
+
+background-size: cover;
+  background-position: center;
+
+}
+
+
+
+form{
+  background-color: white;
+  padding: 0px 60px;
+  border-radius:20px ;
+}
+
+
+
+h1{
+  color: rgb(12,44,55);
+  text-align: center;
+}
+
+
+button{
+  width: 100%;
+  height: 50px;
+  padding: 10px;
+  border: none ;
+  background-color: rebeccapurple;
+  color:white;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius:20px ;
+
+
+}
+
+
