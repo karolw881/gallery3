@@ -1,1 +1,1 @@
-easy puree react login form (base on tutorial on yt)
+easy react login form (base on tutorial on yt). not a gallery name but a form - i have to change name od repo haha
